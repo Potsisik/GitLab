@@ -3,3 +3,10 @@ h1 {
     text-align: center;
     border: solid black 5px;
 }
+
+.container {
+    background: pink;
+    width: 700px;
+    margin: auto;
+    height: 500px;
+}
